@@ -1,0 +1,21 @@
+RELEASE_TYPES = {
+    "Album": 1,
+    "Soundtrack": 3,
+    "EP": 5,
+    "Anthology": 6,
+    "Compilation": 7,
+    "Single": 9,
+    "Live album": 11,
+    "Remix": 13,
+    "Bootleg": 14,
+    "Interview": 15,
+    "Mixtape": 16,
+    "Demo": 17,
+    "Concert Recording": 18,
+    "DJ Mix": 19,
+    "Unknown": 21,
+    "Produced By": 1021,
+    "Composition": 1022,
+    "Remixed By": 1023,
+    "Guest Appearance": 1024
+}

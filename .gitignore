@@ -1,0 +1,7 @@
+userinfo.cfg
+*.json
+
+__pycache__
+.pytest_cache
+.vscode
+test
